@@ -6,7 +6,7 @@
 | --- | --- |
 | [What do Models Learn from Question Answering Datasets?](https://arxiv.org/abs/2004.03490) | Shows that models trained on extractive question-answering datasets tend to have biaises and lack generalization to out-of-domain. Models seems to be able to answer without the question in some extent (similar to MCQA). |
 
-## Unsupervised Question Answering
+## Unsupervised Question Answering and Data Augmentation
 
 | Title | Description |
 | --- | --- |
@@ -24,3 +24,4 @@
 
 | Title | Description |
 | --- | --- |
+| [Adafactor: Adaptive Learning Rates with Sublinear Memory Cost](https://arxiv.org/abs/1804.04235) | Less memory usage than Adam for similar performances. |
